@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WorkKotLin</string>
+    <string name="main_policy_refuse">不同意</string>
+    <string name="main_policy_agree">同意</string>
+    <string name="main_policy_content">感谢您信任并使用【未来魔法校】！在您开始使用本软件时，我们可能会对您的部分个人信息进行收集、
+        使用和共享：\n\n
+        本《用户个人信息保护政策》将向您说明：\n
+        1.为帮助您浏览页面、发布信息、互动交流、学习使用，我们会收集您的部分必要信息；\n
+        2.为提供上述服务，我们可能会收集身份信息、联络信息、支付信息、订单号等敏感信息，您有权拒绝或撤回授权；\n
+        3.未经您同意，我们不会向第三方提供、共享您的信息；\n\n
+        请仔细阅读我们的<a href='https://www.mofaxiao.com/home'><font color='#3A8CFF'>《用户个人信息保护政策》</font></a>，如您同意本政策内容，请点击“同意”开始使用我们的产品与服务，我们尽全力保护您的个人信息安全。</string>
+</resources>

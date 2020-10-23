@@ -1,0 +1,13 @@
+package com.study.gjl.workkotlin.bean
+
+import com.study.gjl.workkotlin.base.Shape
+
+class Triangle(var sideA:Double,
+               var sideB:Double,
+               var sideC:Double): Shape(listOf(sideA,sideB,sideC)){
+    override fun calculateArea(): Double {
+        val s = perimeter/2
+        return Math.sqrt(s*(s - sideA) * (s - sideB) * (s - sideC))
+    }
+
+}
